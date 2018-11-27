@@ -1,4 +1,4 @@
-# ChainSkills Truffle Box
+# Shopper Box
 
 This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
 
